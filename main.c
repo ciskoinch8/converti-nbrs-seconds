@@ -21,6 +21,6 @@ int main(){
     printf("%u secondes correspondent à ", seconds);
     printf("%u h, %u m, et %u s\n", hours, min_left, secs_left);
 
-    exit(EXIT_SUCCESS);    
+    EXIT_SUCCESS;    
 
 }
