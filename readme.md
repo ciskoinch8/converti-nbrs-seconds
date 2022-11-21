@@ -4,7 +4,10 @@
 *** Compiler: ***
 
 ```
-git clone https://github.com/ciskoinch8/converti-nbrs-seconds.git && cd converti-nbrs-seconds
+git clone https://github.com/ciskoinch8/converti-nbrs-seconds.git
+```
+```
+cd converti-nbrs-seconds
 ```
 
 ```
