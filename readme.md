@@ -2,6 +2,11 @@
 ## Ce programme converti le nombre de secondes que vous lui donnerez en heures, minutes, secondes.
 
 *** Compiler: ***
+
+```
+git clone https://github.com/ciskoinch8/converti-nbrs-seconds.git && cd converti-nbrs-seconds
+```
+
 ```
 gcc -Wall -o run main.c
 ```
